@@ -2,7 +2,7 @@
 
 **Edition:** Unified Conceptual, Mathematical & Implementation Edition
 
-[Open the original PDF](nemo_thesis%282%29.pdf)
+[Open the original PDF](nemothesis.pdf)
 
 > Markdown text conversion of the supplied PDF. Line breaks and mathematical notation may differ from the original page layout. Claims and theorems below are presented as the thesis states them; their validity depends on the assumptions and proofs.
 
